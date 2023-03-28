@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="color_divider">#FFD8D8D8</color>
+    <color name="color_text_by_char">#FF868686</color>
+    <color name="color_phone_number_search">#FF919191</color>
+    <color name="color_phone_number">#FF16b86b</color>
+    <color name="color_message">#FF52b0d4</color>
+    <color name="color_background">#FFf2f2f2</color>
+    <color name="color_text">#FF2e2e2e</color>
+    <color name="color_background_item">#FFfcfcfc</color>
+
+
+
+</resources>
